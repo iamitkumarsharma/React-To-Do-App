@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: silver;
+}
+.app{
+   
+    width: 500px;
+    margin: 50px auto 0px auto;
+    border-radius: 10px;
+    padding: 5px;
+}
+.app_fields{
+    width: auto;
+    margin-top: 15px;
+    display: flex;
+   justify-content: center;
+   text-align: center;
+}
+
+.app h1{
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+
+.icon{
+    
+    color: red;
+}
+
+.icon:hover{
+    color: brown;
+    transition: all 0.5s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+  
+  
+ 
